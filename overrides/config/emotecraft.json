@@ -1,0 +1,30 @@
+{
+  "config_version": 3,
+  "dark": false,
+  "perspective": true,
+  "default3rdPersonFront": false,
+  "loadbuiltin": true,
+  "showicon": true,
+  "quark": false,
+  "enableNSFW": false,
+  "debug": true,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.04,
+  "yratio": 0.75,
+  "showHiddenConfig": false,
+  "hideWarning": false,
+  "fastmenu": {
+    "0": 2007599949,
+    "1": 48659845,
+    "2": -394386710,
+    "3": -1108308279,
+    "4": 846264910,
+    "5": 39133942,
+    "6": 2091602184,
+    "7": 323278631
+  },
+  "keys": []
+}

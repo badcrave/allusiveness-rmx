@@ -1,0 +1,14 @@
+{
+  "Biomes": [
+    "minecraft:small_end_islands",
+    "minecraft:end_midlands",
+    "minecraft:end_highlands",
+    "minecraft:end_barrens",
+    "promenade:dark_amaranth_forest",
+    "promenade:tall_dark_amaranth_forest"
+  ],
+  "Weight": 7,
+  "GroupSizeMin": 2,
+  "GroupSizeMax": 10,
+  "IsDefaultSettings": true
+}

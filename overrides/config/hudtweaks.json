@@ -1,0 +1,259 @@
+{
+  "minecraft:hotbar": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:health",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 15.25
+    },
+    "yPos": {
+      "posType": "relative",
+      "parent": "minecraft:mounthealth",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": -27.75
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:title": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  },
+  "minecraft:hunger": {
+    "forceDisplay": false,
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:health",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": -0.5
+    },
+    "yPos": {
+      "posType": "relative",
+      "parent": "minecraft:hotbar",
+      "anchorPos": 0.769802,
+      "relativePos": 0.0,
+      "offset": 25.25
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:tooltip": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.5
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": -6.5
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  },
+  "minecraft:air": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": -42.5
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 7.0
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:subtitle": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  },
+  "minecraft:armor": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": -55.25
+    },
+    "yPos": {
+      "posType": "relative",
+      "parent": "minecraft:hotbar",
+      "anchorPos": 0.0,
+      "relativePos": 0.259901,
+      "offset": 26.25
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:expbar": {
+    "forceDisplay": false,
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 15.75
+    },
+    "yPos": {
+      "posType": "relative",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.8910891,
+      "offset": 18.5
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:mounthealth": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 156.0
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 24.75
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:bossbar": {
+    "maxHeight": 0.33333334,
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  },
+  "minecraft:actionbar": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  },
+  "minecraft:health": {
+    "flipped": false,
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 15.75
+    },
+    "yPos": {
+      "posType": "relative",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.8267327,
+      "offset": 24.25
+    },
+    "xScale": 0.85,
+    "yScale": 0.85
+  },
+  "minecraft:jumpbar": {
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 11.75
+    },
+    "yPos": {
+      "posType": "relative",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0074257427,
+      "offset": 2.25
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  },
+  "minecraft:statuseffects": {
+    "vertical": false,
+    "xPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "yPos": {
+      "posType": "default",
+      "parent": "minecraft:screen",
+      "anchorPos": 0.0,
+      "relativePos": 0.0,
+      "offset": 0.0
+    },
+    "xScale": 1.0,
+    "yScale": 1.0
+  }
+}

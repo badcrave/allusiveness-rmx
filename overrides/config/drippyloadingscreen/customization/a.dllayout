@@ -1,0 +1,42 @@
+type = hud
+
+customization-meta {
+  backgroundimage = config/drippyloadingscreen/img/bg.jpg
+  renderorder = foreground
+  backgroundcolor = A0E0E4
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  x = 0
+  action = editprogressbar
+  y = -38
+  barcolor = FCC0C5
+}
+
+customization {
+  path = config/drippyloadingscreen/img/b.png
+  orientation = top-centered
+  x = 1
+  width = 148
+  action = addtexture
+  actionid = 69e1a6ab-99cb-47d5-b490-ee0fd7a720081630580755445
+  y = 90
+  height = 50
+}
+
+customization {
+  path = config/drippyloadingscreen/img/c.png
+  orientation = top-centered
+  x = 0
+  width = 297
+  action = addtexture
+  actionid = 552a56fb-a51c-4987-864c-1e2f0aed433f1630580835329
+  y = 43
+  height = 48
+}
+

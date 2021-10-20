@@ -1,0 +1,168 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  smallerthanheight = 1080
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  smallerthanwidth = 1920
+}
+
+customization {
+  name = Savanna Panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = -1
+}
+
+customization {
+  identifier = %id=400310%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = ⚡
+}
+
+customization {
+  identifier = %id=400310%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=400358%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400286%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  orientation = top-centered
+  x = -127
+  width = 255
+  action = addwebtexture
+  actionid = 09fd1e17-2cff-4aa6-a410-1ff3e7e03a7b1634629309499
+  y = 39
+  url = https://i.imgur.com/X1xBeR4.png
+  height = 36
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Discord
+  loopbackgroundanimations = true
+  hoverlabel = Kanpeki World!
+  x = 2
+  width = 98
+  actionid = 84f56275-864f-48ed-8d69-1f39f8d20d3a1634630971712
+  action = addbutton
+  y = 24
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  label = ⭐ Multiplayer ⭐
+  loopbackgroundanimations = true
+  hoverlabel = Connect to the SMP
+  x = -100
+  width = 200
+  actionid = af617e0d-2300-4b6b-a475-875b47a365c41634632224565
+  action = addbutton
+  y = -1
+  value = mc.kanpeki.net
+  height = 20
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -68
+  slim = false
+  actionid = 4c5914af-be8e-44de-b6cc-7e190d0cf6041634632454785
+  action = addentity
+  y = 44
+  scale = 34
+  playername = %playername%
+  parrot = false
+}
+
+customization {
+  identifier = %id=604394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=376394%
+  action = vanilla_button_visibility_requirements
+}
+
