@@ -11,9 +11,34 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Allusiveness RMX",
-  "version": "1.0.0",
-  "author": "bstylia14",
+  "version": "1.1.0",
+  "author": "Starvexia",
   "files": [
+    {
+      "projectID": 373138,
+      "fileID": 3461158,
+      "required": true
+    },
+    {
+      "projectID": 518515,
+      "fileID": 3470750,
+      "required": true
+    },
+    {
+      "projectID": 419731,
+      "fileID": 3351759,
+      "required": true
+    },
+    {
+      "projectID": 388832,
+      "fileID": 3491173,
+      "required": true
+    },
+    {
+      "projectID": 418881,
+      "fileID": 3425423,
+      "required": true
+    },
     {
       "projectID": 357620,
       "fileID": 3359232,
